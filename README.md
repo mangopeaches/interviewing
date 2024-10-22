@@ -25,4 +25,4 @@ Details can be found [here](./frontend-exercise/src/App.tsx) in the docblocks.
 ## SQL Exercise ~ 60 minutes
 
 This exercise involes schema design, query design, and overall questions related to SQL in general.\
-Details back be found [here](./sql-exercise/README.md)
+Details can be found [here](./sql-exercise/README.md)
